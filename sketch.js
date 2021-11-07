@@ -6,7 +6,7 @@ var ground,food,obstacle;
 var c;
 var PLAY,END,gs;
 var jump,check,die;
-
+//just for checking purpose.......
 function preload()
 {
   bananaImage = loadImage("banana.png");
